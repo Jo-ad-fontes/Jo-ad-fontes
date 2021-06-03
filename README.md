@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Welcome%20to%20Checkpoint&fontSize=70&animation=twinkling&fontAlign=50&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=SJ%20Checkpoint&fontSize=70&animation=twinkling&fontAlign=50&fontAlignY=50)
 
 <!--
 **Jo-ad-fontes/Jo-ad-fontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
